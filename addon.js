@@ -2,7 +2,7 @@ const { addonBuilder } = require("stremio-addon-sdk");
 const magnet = require("magnet-uri");
 
 const manifest = { 
-    "id": "org.matinee.stremio.addon",
+    "id": "org.matineesa.isparoz",
     "version": "1.0.0",
 
     "name": "Matinee",
