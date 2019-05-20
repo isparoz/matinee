@@ -13,4 +13,3 @@ clone the repo and go into the folder. Then make sure you've installed necessary
     
     npm install stremio-addon-sdk
     npm install
-    npm install magnet-uri
