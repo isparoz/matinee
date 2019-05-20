@@ -52,7 +52,7 @@ dataset = projectionist(dt)
 
 var cron = require('node-cron');
  
-cron.schedule('* * * * *', () => {
+cron.schedule('0 22 * * *', () => {
     console.log('running a task every minute');
     dataset = projectionist(dt);
     console.log(dataset);
