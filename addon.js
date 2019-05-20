@@ -7,6 +7,9 @@ const manifest = {
 
     "name": "Matinee",
     "description": "Shows a different good movie everyday for 24 hours",
+ 
+    "icon": "https://github.com/isparoz/matinee/blob/master/bitmap2.png",
+
 
     // set what type of resources we will return
     "resources": [
