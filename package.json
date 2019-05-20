@@ -4,7 +4,8 @@
   "description": "stremio addon",
   "main": "addon.js",
   "dependencies": {
-    "magnet-uri": "^5.2.4"
+    "magnet-uri": "^5.2.4",
+    "node-cron": "^2.0.3"
   },
   "devDependencies": {},
   "scripts": {
