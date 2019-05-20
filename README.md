@@ -2,7 +2,7 @@
 
 ### Stremio Add-On
 
-Everyday at midnight(server time), Matinee provides a new working streaming link for a different movie.
+Everyday at 22:00 (server time), Matinee provides a new working streaming link for a different movie.
 Movie stays on the Matinee for 24 hours, and then replaces with a another good movie. Movies vary from typical blockbusters to cinema classics.
 
 Movie database is consisted of 500 movies. All movies and their info can be found on [here](https://github.com/isparoz/Matinee/blob/master/films.md)
