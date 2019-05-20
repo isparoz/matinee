@@ -1,0 +1,24 @@
+{
+  "name": "matinee-stremio-addon",
+  "version": "1.0.0",
+  "description": "stremio addon",
+  "main": "addon.js",
+  "dependencies": {
+    "magnet-uri": "^5.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isparoz/matinee.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isparoz/matinee/issues"
+  },
+  "homepage": "https://github.com/isparoz/matinee#readme"
+}
