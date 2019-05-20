@@ -3,10 +3,7 @@
   "version": "1.0.0",
   "description": "stremio addon",
   "main": "addon.js",
-  "dependencies": {
-    "magnet-uri": "^5.2.4",
-    "node-cron": "^2.0.3"
-  },
+  "dependencies": {},
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -14,12 +11,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/isparoz/matinee.git"
+    "url": "git+https://github.com/isparoz/matinee-sa.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/isparoz/matinee/issues"
+    "url": "https://github.com/isparoz/matinee-sa/issues"
   },
-  "homepage": "https://github.com/isparoz/matinee#readme"
+  "homepage": "https://github.com/isparoz/matinee-sa#readme"
 }
